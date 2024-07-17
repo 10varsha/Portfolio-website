@@ -1,0 +1,39 @@
+[submodule "30days30projects/Calculator-Proj"]
+    path = 30days30projects/Calculator-Proj
+    url = https://github.com/10varsha/Calculator-Proj.git
+
+[submodule "30days30projects/Image slider"]
+    path = 30days30projects/Image slider
+    url = https://github.com/10varsha/image-slider.git
+
+[submodule "30days30projects/Maze generation game"]
+    path = 30days30projects/Maze generation game
+    url = https://github.com/10varsha/Maze-Generator-Game.git
+
+[submodule "30days30projects/Music player JS"]
+    path = 30days30projects/Music player JS
+    url = https://github.com/10varsha/Music-Player.git
+
+[submodule "30days30projects/Pomodoro Timer"]
+    path = 30days30projects/Pomodoro Timer
+    url = https://github.com/10varsha/Pomodoro-Timer.git
+
+[submodule "30days30projects/Quiz App"]
+    path = 30days30projects/Quiz App
+    url = https://github.com/10varsha/Quiz-Fuzz.git
+
+[submodule "30days30projects/Rock Paper Scissor"]
+    path = 30days30projects/Rock Paper Scissor
+    url = https://github.com/10varsha/rock-paper-scissors.git
+
+[submodule "30days30projects/Space Invaders"]
+    path = 30days30projects/Space Invaders
+    url = https://github.com/10varsha/Alien-Invaders.git
+
+[submodule "30days30projects/Weather app JS"]
+    path = 30days30projects/Weather app JS
+    url = https://github.com/10varsha/Weather-app.git
+
+[submodule "30days30projects/TODO App JS"]
+    path = 30days30projects/TODO App JS
+    url = https://github.com/10varsha/TODO-App-JS.git
