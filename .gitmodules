@@ -1,6 +1,7 @@
 [submodule "30days30projects/Calculator-Proj"]
-    path = 30days30projects/Calculator-Proj
-    url = https://github.com/10varsha/Calculator-Proj.git
+path = 30days30projects/Calculator-Proj
+url = https://github.com/10varsha/Calculator-Proj.git
+
 
 [submodule "30days30projects/Image slider"]
     path = 30days30projects/Image slider
