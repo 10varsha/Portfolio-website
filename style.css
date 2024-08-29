@@ -20,6 +20,7 @@ header nav{
 }
 
 nav ul{
+    width: 100%;
     margin: 1rem 5%;
 }
 
@@ -156,7 +157,7 @@ img{
     width: 200px;
     height: 200px;
     border-radius: 8px;
-    object-fit: contain;
+    object-fit:fill;
 }
 
 #projects .card h3{
@@ -241,9 +242,14 @@ footer i{
     transform: scale(1.05);
 }
   
-footer i:hover {
+.btn:hover {
+    background-color: rgb(252, 182, 75);
+    transform: scale(1.05);
+  }
+  
+  footer i:hover {
     color: var(--orange-peel);
-}
+  }  
   
 
 .btn:hover, #connect .btn:hover, #projects .btn:hover{
@@ -251,6 +257,30 @@ footer i:hover {
 }
 
 @media (max-width: 768px) {
+    .main {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .main .content, .main .image {
+      width: 100%;
+      margin: 0;
+      padding: 10px;
+    }
+  
+    #projects .container, #skills .container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    nav ul li {
+      float: none;
+      display: block;
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 768px) {
     .main {
       flex-direction: column;
       align-items: center;
